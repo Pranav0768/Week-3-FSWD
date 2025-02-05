@@ -1,0 +1,4 @@
+OS Type: Windows_NT
+Total Memory: 16981233664
+Free Memory: 8306139136
+CPU Info: Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz
